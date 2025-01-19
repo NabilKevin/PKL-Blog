@@ -1,0 +1,29 @@
+.container-lg {
+    margin-left: 18%;
+}
+
+@media screen and (max-width: 1600px) {
+    .container-lg {
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width: 1400px) {
+    .container-lg {
+        margin-left: 23%;
+    }
+}
+@media screen and (max-width: 1250px) {
+    .container-lg {
+        margin-left: 25%;
+    }
+}
+@media screen and (max-width: 1250px) {
+    .container-lg {
+        margin-left: 28%;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .container-lg {
+        margin-left: 30%;
+    }
+}
